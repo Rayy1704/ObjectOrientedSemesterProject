@@ -1,0 +1,3 @@
+C:\Users\HP\Downloads\projectr\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\x64\Release\CppCLR_WinFormsProject2.vcxproj.AssemblyReference.cache
+C:\Users\HP\Downloads\projectr\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\x64\Release\CppCLR_WinFormsProject2.Form1.resources
+C:\Users\HP\Downloads\projectr\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\x64\Release\CppCLR_WinFormsProject2.vcxproj.GenerateResource.cache

@@ -1,0 +1,26 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\HP\Downloads\projectr\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\CppCLR_WinFormsProject.cpp(1,1): warning C4005: '__CLR_VER': macro redefinition
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\HP\Downloads\projectr\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\CppCLR_WinFormsProject.cpp(1,1):
+  '__CLR_VER' previously declared on the command line
+  
+C:\Users\HP\Downloads\projectr\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\CppCLR_WinFormsProject.cpp(1,1): warning C4651: '/D__CLR_VER=40809232' specified for precompiled header but not for current compile
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\HP\Downloads\projectr\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\Form1.h(32,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\HP\Downloads\projectr\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\Form1.h(550,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\HP\Downloads\projectr\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\Form1.h(551,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\HP\Downloads\projectr\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\Form1.h(554,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\HP\Downloads\projectr\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\Form1.h(555,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CppCLR_WinFormsProject2.vcxproj -> C:\Users\HP\Downloads\projectr\CppCLR_WinFormsProject2\x64\Debug\CppCLR_WinFormsProject2.exe

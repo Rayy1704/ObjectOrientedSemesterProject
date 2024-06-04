@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\x64\Debug\CppCLR_WinFormsProject2.vcxproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\x64\Debug\CppCLR_WinFormsProject2.Form1.resources
+C:\Users\Admin\source\repos\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\x64\Debug\CppCLR_WinFormsProject2.vcxproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\x64\Debug\CppCLR_WinFormsProject2.exe
+C:\Users\HP\Downloads\projectr\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\x64\Debug\CppCLR_WinFormsProject2.vcxproj.AssemblyReference.cache
+C:\Users\HP\Downloads\projectr\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\x64\Debug\CppCLR_WinFormsProject2.Form1.resources
+C:\Users\HP\Downloads\projectr\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\x64\Debug\CppCLR_WinFormsProject2.vcxproj.GenerateResource.cache
+C:\Users\HP\Downloads\projectr\CppCLR_WinFormsProject2\CppCLR_WinFormsProject2\x64\Debug\CppCLR_WinFormsProject2.exe
