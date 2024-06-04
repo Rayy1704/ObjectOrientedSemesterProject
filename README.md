@@ -29,4 +29,3 @@ Tools & Languages :
 [![Icone VS-Code](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/)
 [![Icone VS-Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Icone VS-Code](https://skillicons.dev/icons?i=visualstudio)]([https://code.visualstudio.com/](https://visualstudio.microsoft.com/vs/))
-[![Icone VS-Code](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
