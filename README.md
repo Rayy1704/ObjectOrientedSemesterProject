@@ -1,6 +1,6 @@
 CS-112 Object-Oriented Programming Project
 
-Welcome to the repository for the CS-112 Object-Oriented Programming second-semester project, developed by [Your Name] and Asad Shayan under the guidance of Prof. Dr. Zahid Halim.
+Welcome to the repository for the CS-112 Object-Oriented Programming second-semester project, developed by Rayyan Salman and Asad Shayan under the guidance of Prof. Dr. Zahid Halim.
 
 Contents:
 
